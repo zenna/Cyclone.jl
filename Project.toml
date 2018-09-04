@@ -5,3 +5,4 @@ version = "0.1.0"
 
 [deps]
 Spec = "526a04b8-654b-11e8-1588-db2a414f95b5"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
